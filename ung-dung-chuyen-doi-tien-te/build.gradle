@@ -27,8 +27,6 @@ dependencies {
 
     implementation 'org.springframework:spring-webmvc:5.3.23'
 
-    implementation 'org.apache.tomcat.embed:tomcat-embed-jasper:9.0.75' // Hoặc phiên bản 9.0.x mới nhất nếu bạn dùng Tomcat 9
-
 
     testImplementation("org.junit.jupiter:junit-jupiter-api:${junitVersion}")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:${junitVersion}")
