@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Kết quả chuyển đổi</title>
+  <title>Kết quả chuyển đổi tiền tệ</title>
 </head>
 <body>
 <h2>Kết quả:</h2>
